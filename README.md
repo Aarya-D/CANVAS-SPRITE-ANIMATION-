@@ -1,1 +1,1 @@
-# CANVAS-SPRITE-ANIMATION-
+# canvas-sprite-animation
